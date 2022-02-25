@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 
-- 🎯 Goal: **Become a Full Stack Web Developer **
+- 🎯 Goal: **Become a Full Stack Web Developer**
 
 <br/>
 
@@ -36,16 +36,16 @@
 <br/>
 
 ## Connect with me:
-<p align="center">
+<p align="left">
 <a href = "https://www.linkedin.com/in/nikhil-mehra-054a5b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_nikhilmehra"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <p>
 
 <br/>
 <div align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsooraj&show_icons=true&locale=en&layout=compact" alt="codewithsooraj" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsooraj&show_icons=true&locale=en" alt="codewithsooraj" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsooraj&" alt="codewithsooraj" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilmehra06&show_icons=true&locale=en&layout=compact" alt="nikhilmehra06" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhilmehra06&show_icons=true&locale=en" alt="nikhilmehra06" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilmehra06&" alt="nikhilmehra06" />
 </div>
 
 
