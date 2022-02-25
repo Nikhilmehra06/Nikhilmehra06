@@ -6,13 +6,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a Student in B.tech(CSE).
+- 🔭 I’m currently working on **personal project.**
 
 
-- 🌱 I'm Currently Learning React.js.
+- 🌱 I’m currently learning **react.js.**
 
 
-- 🎯 Goal: Become a Full Stack Web Developer
+- 📫 How to reach me **nikhilmehra7919@gmail.com**
+
+
+- ⚡ Fun fact **I think I am funny**
+
+
+- 🎯 Goal: **Become a Full Stack Web Developer **
 
 <br/>
 
@@ -35,6 +41,12 @@
 <a href = "https://twitter.com/_nikhilmehra"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <p>
 
+<br/>
+<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsooraj&show_icons=true&locale=en&layout=compact" alt="codewithsooraj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsooraj&show_icons=true&locale=en" alt="codewithsooraj" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsooraj&" alt="codewithsooraj" />
+</div>
 
 
 
