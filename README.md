@@ -42,7 +42,7 @@
 <p>
 
 <br/>
-<div align="left">
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilmehra06&show_icons=true&locale=en&layout=compact" alt="nikhilmehra06" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhilmehra06&show_icons=true&locale=en" alt="nikhilmehra06" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilmehra06&" alt="nikhilmehra06" />
