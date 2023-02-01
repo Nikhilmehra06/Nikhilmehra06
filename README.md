@@ -6,17 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **personal project.**
-
-
-- 🌱 I’m currently learning **react.js.**
-
-
 - 📫 How to reach me **nikhilmehra7919@gmail.com**
 
-
 - ⚡ Checkout My StackBlitz **https://stackblitz.com/@Nikhilmehra06**
-
 
 - 🎯 Goal: **Become a Full Stack Web Developer**
 
